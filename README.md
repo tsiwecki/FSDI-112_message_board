@@ -10,4 +10,7 @@ Thadeus Siwecki Message_App
 ## We were also to add our link to your project on Heroku in our README.md file
 ## Lastly, we were to use templates for our message board app to make it look nice and deployable.
 
-My heroku link is: 
+My heroku link is: https://mighty-basin-80104.herokuapp.com/
+
+My github link is: https://github.com/tsiwecki/message_board.git
+
